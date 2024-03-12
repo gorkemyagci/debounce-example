@@ -1,4 +1,4 @@
-## Debounce Technique
+## Debounce Technique
 
 The debounce technique is a JavaScript method used to reduce unnecessary processing costs while handling user interactions. It's particularly useful in functions that track user interactions, such as listening to user inputs in search boxes. The primary purpose of this technique is to group consecutive calls over a certain delay period and execute only the last call. This can help reduce unnecessary CPU usage and improve performance.
 
